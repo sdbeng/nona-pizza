@@ -1,0 +1,23 @@
+{
+  "name": "nona-pizza",
+  "version": "1.0.0",
+  "description": "mongodb api fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdbeng/nona-pizza.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdbeng/nona-pizza/issues"
+  },
+  "homepage": "https://github.com/sdbeng/nona-pizza#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
